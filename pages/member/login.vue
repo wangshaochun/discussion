@@ -56,7 +56,7 @@ async function onSubmit(event: FormSubmitEvent<Schema>) {
             登录
           </UButton>
           <NuxtLink to="/member/reg" class="text-primary text-sm ml-2 underline underline-offset-4">
-            没有账户?去注册
+            OR 注册
           </NuxtLink>
         </div>
       </UForm>
